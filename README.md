@@ -12,7 +12,7 @@ OS X Keyboard icons
 | -     | &#9167; | `&#9167;` | `U+23CF` | Eject                              |
 | -     | &#8617; | `&#8617;` | `U+21A9` | Return, Carriage return            |
 | -     | &#8629; | `&#8629;` | `U+21B5` | Return, Carriage return            |
-| -     | &#9166; | `&#9166;` | `U+21B5` | Return, Carriage return            |
+| -     | &#9166; | `&#9166;` | `U+23CE` | Return, Carriage return            |
 | -     | &#8996; | `&#8996;` | `U+2324` | Enter                              |
 | -     | &#9003; | `&#9003;` | `U+232B` | Delete, Backspace                  |
 | -     | &#8998; | `&#8998;` | `U+2326` | Forward delete, Fwd delete, Delete |
