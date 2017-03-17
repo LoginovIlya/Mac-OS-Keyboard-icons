@@ -25,7 +25,7 @@ OS X Keyboard icons
 | <img src="img/downwards_arrow_with_double_stroke.png"       width="35" > | &#8671;   | `&#8671;` | `U+21DF` | Page down, PgDn                    |
 | <img src="img/north_west_arrow.png"                         width="35" > | &#8598;   | `&#8598;` | `U+2196` | Home                               |
 | <img src="img/south_east_arrow.png"                         width="35" > | &#8600;   | `&#8600;` | `U+2198` | End                                |
-| <img src="img/leftwards_arrow_to_bar.png"                   width="35" > | &#8677;   | `&#8677;` | `U+21E5` | Tab, Tab right, Horizontal tab     |
-| <img src="img/rightwards_arrow_to_bar.png"                  width="35" > | &#8676;   | `&#8676;` | `U+21E4` | Shift tab, Tab left                |
+| <img src="img/rightwards_arrow_to_bar.png"                   width="35" > | &#8677;   | `&#8677;` | `U+21E5` | Tab, Tab right, Horizontal tab     |
+| <img src="img/leftwards_arrow_to_bar.png"                  width="35" > | &#8676;   | `&#8676;` | `U+21E4` | Shift tab, Tab left                |
 | <img src="img/blank_symbol.png"                             width="35" > | &#9250;   | `&#9250;` | `U+2422` | Space, Blank                       |
   
