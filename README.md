@@ -18,7 +18,7 @@ OS X Keyboard icons
 | <img src="img/erase_to_the_right.png"                       width="35" > | &#8998;   | `&#8998;` | `U+2326` | Forward delete, Fwd delete, Delete |
 | <img src="img/broken_circle_with_northwest_arrow.png"       width="35" > | &#9099;   | `&#9099;` | `U+238B` | Escape, Esc                        |
 | <img src="img/rightwards_arrow.png"                         width="35" > | &#8594;   | `&#8594;` | `U+2192` | Right arrow                        |
-| <img src="img/leftwards_double_arrow.png"                   width="35" > | &#8656;   | `&#8656;` | `U+21D0` | Left arrow                         |
+| <img src="img/leftwards_arrow.png"                          width="35" > | &#8592;   | `&#8592;` | `U+2190` | Left arrow                         |
 | <img src="img/upwards_arrow.png"                            width="35" > | &#8593;   | `&#8593;` | `U+2191` | Up arrow                           |
 | <img src="img/downwards_arrow.png"                          width="35" > | &#8595;   | `&#8595;` | `U+2193` | Down arrow                         |
 | <img src="img/upwards_arrow_with_double_stroke.png"         width="35" > | &#8670;   | `&#8670;` | `U+21DE` | Page up, PgUp                      |
