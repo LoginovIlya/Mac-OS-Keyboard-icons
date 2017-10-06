@@ -29,3 +29,4 @@ OS X Keyboard icons
 | <img src="img/leftwards_arrow_to_bar.png"                   width="35" > | &#8676;   | `&#8676;` | `U+21E4` | Shift tab, Tab left                |
 | <img src="img/blank_symbol.png"                             width="35" > | &#9250;   | `&#9250;` | `U+2422` | Space, Blank                       |
   
+[License: GNU Free Documentation License](https://en.wikipedia.org/wiki/GNU_FDL)
