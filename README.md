@@ -1,4 +1,4 @@
-OS X Keyboard icons
+Mac OS Keyboard icons
 =
 
 
